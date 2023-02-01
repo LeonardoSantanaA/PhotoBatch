@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/lekao/Desktop/PhotoBatch/out/build/x64-Debug/_deps/stbcontents-subbuild/CMakeFiles/stbcontents-populate"
+		},
+		{
+			"file" : "C:/Users/lekao/Desktop/PhotoBatch/out/build/x64-Debug/_deps/stbcontents-subbuild/CMakeFiles/stbcontents-populate.rule"
+		},
+		{
+			"file" : "C:/Users/lekao/Desktop/PhotoBatch/out/build/x64-Debug/_deps/stbcontents-subbuild/CMakeFiles/stbcontents-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/lekao/Desktop/PhotoBatch/out/build/x64-Debug/_deps/stbcontents-subbuild/stbcontents-populate-prefix/src/stbcontents-populate-stamp/stbcontents-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/lekao/Desktop/PhotoBatch/out/build/x64-Debug/_deps/stbcontents-subbuild/stbcontents-populate-prefix/src/stbcontents-populate-stamp/stbcontents-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/lekao/Desktop/PhotoBatch/out/build/x64-Debug/_deps/stbcontents-subbuild/stbcontents-populate-prefix/src/stbcontents-populate-stamp/stbcontents-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/lekao/Desktop/PhotoBatch/out/build/x64-Debug/_deps/stbcontents-subbuild/stbcontents-populate-prefix/src/stbcontents-populate-stamp/stbcontents-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/lekao/Desktop/PhotoBatch/out/build/x64-Debug/_deps/stbcontents-subbuild/stbcontents-populate-prefix/src/stbcontents-populate-stamp/stbcontents-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/lekao/Desktop/PhotoBatch/out/build/x64-Debug/_deps/stbcontents-subbuild/stbcontents-populate-prefix/src/stbcontents-populate-stamp/stbcontents-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/lekao/Desktop/PhotoBatch/out/build/x64-Debug/_deps/stbcontents-subbuild/stbcontents-populate-prefix/src/stbcontents-populate-stamp/stbcontents-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/lekao/Desktop/PhotoBatch/out/build/x64-Debug/_deps/stbcontents-subbuild/stbcontents-populate-prefix/src/stbcontents-populate-stamp/stbcontents-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"stbcontents-populate"
+		],
+		"name" : "stbcontents-populate"
+	}
+}
